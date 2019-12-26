@@ -9,7 +9,7 @@ int main()
  cin >> hr1;
  cout << "\nInput start time (minute):\t ";
  cin >> minute1;
- cout << "\n Am or PM, if AM press 1 if PM press 21";
+ cout << "\n Am or PM, if AM press 1 if PM press 211";
  cin >> AMPM1;
   cout << "\nInput end time (Hr):\t";
  cin >> hr2;
